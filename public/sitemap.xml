@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-29T11:52:50-05:00</lastmod>
+    <loc>http://localhost:1313/recipes/chocolate-chip-walnut-cookies/</loc>
+    <lastmod>2024-12-07T16:54:54-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipes/pecan-pie-bars/</loc>
-    <lastmod>2024-11-29T11:52:50-05:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-07T16:54:54-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipes/</loc>
+    <lastmod>2024-12-07T16:54:54-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipes/peanut-butter-miso-cookies/</loc>
+    <lastmod>2024-12-03T08:17:17-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipes/savory-french-toast-skillet/</loc>
+    <lastmod>2024-11-29T17:46:51-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipes/pecan-pie-bars/</loc>
     <lastmod>2024-11-29T11:52:50-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
