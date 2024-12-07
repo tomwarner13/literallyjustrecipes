@@ -19,3 +19,5 @@ Here is a list of things that are not on this website:
 If you like it, bookmark or make some of the recipes, or share them with your friends and relations. If you really like, feel free to email me recipe submissions at tomwarner13 at gmail dot com. If this really takes off I'll develop a more scalable submission method.
 
 If you don't like it, that's perfectly fine. There are lots of recipe sites on the rest of the internet filled with non-recipe content.
+
+The source code lives [here](https://github.com/tomwarner13/literallyjustrecipes) if you're a nerd. If you're a mega-nerd, you can even open a PR for me and I'll probably merge it.
