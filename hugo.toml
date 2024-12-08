@@ -10,7 +10,7 @@ theme = "re-terminal"
 # paginate = 5
 
 [pagination]
-  pagerSize = 5
+  pagerSize = 25
 
 
 [params]
