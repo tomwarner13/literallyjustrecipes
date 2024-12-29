@@ -7,7 +7,7 @@ summary = 'Somewhere between a fritatta and a quiche. A vehicle for whatever goo
 
 ## Ingredients
 
-- 1cup plus 2 tablespoons all-purpose flour
+- 1 cup plus 2 tablespoons all-purpose flour
 - 1/2 teaspoon kosher salt
 - 1/2 teaspoon ground black pepper
 - 1 tsp paprika
