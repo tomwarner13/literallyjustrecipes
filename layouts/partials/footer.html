@@ -1,4 +1,14 @@
 <footer class="footer">
+  {{ if eq .Type $.Site.Params.contentTypeName }}
+    <div id="wake-settings">
+      <label for="wake-setting">Keep screen awake:</label>
+      <select name="wake-setting" id="wake-setting">
+        <option value="off">Off</option>
+        <option value="on-local">On now</option>
+        <option value="on-sitewide">On sitewide</option>
+      </select>
+    </div>
+  {{ end }}
   <div class="footer__inner">
       <div class="copyright copyright--user">
         <span>{{ $.Site.Params.copyright | safeHTML }}</span>
@@ -17,6 +27,15 @@
   {{ $banner := resources.Get "js/banner.js" | js.Build | resources.Minify }}
 
   <script type="text/javascript" src="{{ $banner.RelPermalink }}"></script>
+{{ end }}
+
+<!-- directly interpolate the screen wake js so as to avoid loading a separate resource -->
+{{ if eq .Type $.Site.Params.contentTypeName }}
+  {{ $wakeJs := resources.Get "js/wake.js" | minify  }}
+
+  <script>
+  {{ $wakeJs.Content | safeJS }}
+  </script>
 {{ end }}
 
 <!-- Extended footer section-->
