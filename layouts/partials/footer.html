@@ -1,4 +1,12 @@
 <footer class="footer">
+  {{ if eq .Type $.Site.Params.contentTypeName }}
+    <div id="wake-settings">
+      <span>Keep screen awake:</span>
+      <input type="radio" id="off" name="wake-setting" value="Off"><label for="off">Off</label>
+      <input type="radio" id="on-local" name="wake-setting" value="On (just now)"><label for="on-local">On (just now)</label>
+      <input type="radio" id="on-sitewide" name="wake-setting" value="On for all (uses cookies)"><label for="on-sitewide">On for all (uses cookies)</label>
+    </div>
+  {{ end }}
   <div class="footer__inner">
       <div class="copyright copyright--user">
         <span>{{ $.Site.Params.copyright | safeHTML }}</span>
