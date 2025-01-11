@@ -7,8 +7,6 @@ async function wakesOn() {
   } catch (err) {
     console.error(`wake lock acquisition failed: ${err.name}, ${err.message}`);
   }
-  console.log('wake on (or silent failure)');
-  console.log(wakeLock);
 }
 
 function wakesOff() {
@@ -16,8 +14,6 @@ function wakesOff() {
     wakeLock = null;
   });
   window.localStorage.removeItem('_ljrWake');
-  console.log('wake off (or silent failure)');
-  console.log(wakeLock);
 }
 
 function wakesOnSitewide() {
@@ -43,7 +39,7 @@ wakeDropdown.addEventListener("change", function() {
       wakesOnSitewide();
       break;
     default:
-      console.log('unknown wake option ' + this.value);
+      console.error('unknown wake option ' + this.value);
       break;
   }
 });
