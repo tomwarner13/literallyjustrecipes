@@ -25,7 +25,7 @@ function wakesOnSitewide() {
   wakesOn();
 }
 
-if(window.localStorage.getItem('_ljrWake') == '1') {
+if(window.localStorage.getItem('_ljrWake') === '1') {
   wakesOn();
   wakeDropdown.value = 'on-sitewide';
 }
@@ -45,5 +45,11 @@ wakeDropdown.addEventListener("change", function() {
     default:
       console.log('unknown wake option ' + this.value);
       break;
+  }
+});
+
+document.addEventListener("visibilitychange", async () => {
+  if (wakeLock !== null && document.visibilityState === "visible") {
+    wakesOn();
   }
 });
