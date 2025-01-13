@@ -20,13 +20,13 @@
 {{ $menu := resources.Get "js/menu.js" | js.Build }}
 {{ $bundle := slice $menu | resources.Concat "bundle.js" | resources.Minify }}
 
-<script type="text/javascript" src="{{ $bundle.RelPermalink }}"></script>
+<script type="text/javascript" src="{{ $bundle.RelPermalink }}" async defer></script>
 
 <!-- Banner JS if it enabled -->
 {{ if .Site.Params.Banner }}
   {{ $banner := resources.Get "js/banner.js" | js.Build | resources.Minify }}
 
-  <script type="text/javascript" src="{{ $banner.RelPermalink }}" async defer></script>
+  <script type="text/javascript" src="{{ $banner.RelPermalink }}"></script>
 {{ end }}
 
 <!-- directly interpolate the screen wake js so as to avoid loading a separate resource -->
