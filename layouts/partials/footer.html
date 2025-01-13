@@ -26,7 +26,7 @@
 {{ if .Site.Params.Banner }}
   {{ $banner := resources.Get "js/banner.js" | js.Build | resources.Minify }}
 
-  <script type="text/javascript" src="{{ $banner.RelPermalink }}"></script>
+  <script type="text/javascript" src="{{ $banner.RelPermalink }}" async defer></script>
 {{ end }}
 
 <!-- directly interpolate the screen wake js so as to avoid loading a separate resource -->
