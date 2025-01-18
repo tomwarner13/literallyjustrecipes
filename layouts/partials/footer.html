@@ -34,5 +34,10 @@
   <script type="text/javascript" src="{{ $wakeJs.RelPermalink }}" async defer></script>
 {{ end }}
 
+{{ if and (not .IsPage) (eq .Type $.Site.Params.contentTypeName) }}
+  {{ $searchJs := resources.Get "js/search.js" | minify  }}
+  <script type="text/javascript" src="{{ $searchJs.RelPermalink }}" async defer></script>
+{{ end }}
+
 <!-- Extended footer section-->
 {{ partial "extended_footer.html" . }}

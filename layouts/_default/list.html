@@ -4,7 +4,9 @@
       {{ . }}
     </div>
   {{ end }}
-  <div class="posts"><h1>TODO SEARCH FIELD HERE</h1>
+  <div class="posts">
+    <label for="searchField">Search (regexes accepted):</label><br>
+    <input type="text" id="searchField" name="searchField">
     {{ range .Pages.ByTitle }}
       <article class="post post-search on-list" data-search-content="{{ .Title | markdownify }}&nbsp;{{- .Date.Format "2006-01-02" -}}&nbsp;{{ .Summary }}">
         <h2 class="post-search-title">
