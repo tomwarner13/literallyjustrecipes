@@ -29,13 +29,9 @@
   <script type="text/javascript" src="{{ $banner.RelPermalink }}"></script>
 {{ end }}
 
-<!-- directly interpolate the screen wake js so as to avoid loading a separate resource -->
 {{ if eq .Type $.Site.Params.contentTypeName }}
   {{ $wakeJs := resources.Get "js/wake.js" | minify  }}
-
-  <script>
-  {{ $wakeJs.Content | safeJS }}
-  </script>
+  <script type="text/javascript" src="{{ $wakeJs.RelPermalink }}" async defer></script>
 {{ end }}
 
 <!-- Extended footer section-->
