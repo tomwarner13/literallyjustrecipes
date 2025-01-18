@@ -1,13 +1,20 @@
 document.addEventListener("DOMContentLoaded", (event) => {
-  console.log('search js loaded');
+  const postElements = document.querySelectorAll("article.post-search");
+
+  function applySearchFilter(filter) {
+  	let searchRegex = new RegExp(filter, "i");
+  	postElements.forEach((element) => {
+  	  element.hidden = !searchRegex.test(element.attributes["data-search-content"].value);
+  	});
+  }
 
   const searchInput = document.getElementById("searchField");
 
   searchInput.addEventListener("keyup", function(e) {
-    console.log(e.target.value);
+    applySearchFilter(e.target.value);
   });
 
   searchInput.addEventListener("change", function(e) {
-    console.log(e.target.value);
+    applySearchFilter(e.target.value);
   });
 });
