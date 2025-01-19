@@ -1,11 +1,11 @@
-document.addEventListener("DOMContentLoaded", (event) => {
+function initSearch() {
   const postElements = document.querySelectorAll("article.post-search");
 
   function applySearchFilter(filter) {
-  	let searchRegex = new RegExp(filter, "i");
-  	postElements.forEach((element) => {
-  	  element.hidden = !searchRegex.test(element.attributes["data-search-content"].value);
-  	});
+    let searchRegex = new RegExp(filter, "i");
+    postElements.forEach((element) => {
+      element.hidden = !searchRegex.test(element.attributes["data-search-content"].value);
+    });
   }
 
   const searchInput = document.getElementById("searchField");
@@ -16,5 +16,13 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
   searchInput.addEventListener("change", function(e) {
     applySearchFilter(e.target.value);
+  });  
+}
+
+if (document.readyState !== "loading") {
+  initSearch();
+} else {
+  document.addEventListener("DOMContentLoaded", function () {
+    initSearch();
   });
-});
+}
