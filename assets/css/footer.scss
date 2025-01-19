@@ -22,6 +22,19 @@
     color: inherit;
   }
 
+  #wake-settings {
+    display: flex;
+    flex-flow: row wrap;
+    flex: 1;
+    align-items: center;
+    font-size: 1rem;
+    justify-content: center;
+
+    * {
+      margin: 0 1rem;
+    }
+  }
+
   .copyright {
     display: flex;
     flex-flow: row wrap;
