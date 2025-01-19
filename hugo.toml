@@ -105,13 +105,15 @@ theme = "re-terminal"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
         identifier = "search"
         name = "Search All Recipes"
         url = "/recipes"
+        weight = 10
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+        weight = 20
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
