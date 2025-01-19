@@ -94,7 +94,7 @@ theme = "re-terminal"
     readOtherPosts = "Read other posts"
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
-    missingContentMessage = "Page not found..."
+    missingContentMessage = "Four! Oh, four!"
     missingBackButtonLabel = "Back to home page"
     minuteReadingTime = "min read"
     words = "words"
@@ -105,9 +105,15 @@ theme = "re-terminal"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
+        identifier = "search"
+        name = "Search All Recipes"
+        url = "/recipes"
+        weight = 10
+      [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
         url = "/about"
+        weight = 20
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
