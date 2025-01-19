@@ -24,7 +24,7 @@ summary = 'Sweet and thick with a kick.'
 ## Instructions
 
 1. Add the chipotle pepper, garlic, and apple cider vinegar to a blender; blend till smooth.
-2. Add all ingredients to a medium saucepan. Bring to a simmer and simmer at low heat for 15 minutes.
+2. Add all ingredients to a medium saucepan, stir to combine. Cover, bring to a simmer, and simmer at low heat for 15 minutes, stirring occasionally.
 3. Allow sauce to cool. Refrigerate in airtight container until serving.
 
 \*This is a heavily improvisational recipe. No quantities of ingredients require any strict measuring, and everything can be added to taste if you (like me) are too lazy to measure things.
