@@ -101,7 +101,7 @@ theme = "re-terminal"
 
     [languages.en.params.logo]
       logoText = "literally just recipes"
-      logoHomeLink = "/literallyjustrecipes"
+      logoHomeLink = "/literallyjustrecipes/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
