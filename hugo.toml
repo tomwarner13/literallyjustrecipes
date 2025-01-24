@@ -107,12 +107,12 @@ theme = "re-terminal"
       [[languages.en.menu.main]]
         identifier = "search"
         name = "Search All Recipes"
-        url = "/recipes"
+        url = "/recipes/"
         weight = 10
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/about"
+        url = "/about/"
         weight = 20
 
 [module]
