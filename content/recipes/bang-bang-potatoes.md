@@ -3,6 +3,7 @@ date = '2024-12-26T10:50:43-05:00'
 draft = false
 title = 'Bang Bang Potatoes'
 summary = 'Simple, easy, and delicious potato side.'
+tags = ['sides']
 +++
 ## Ingredients
 
