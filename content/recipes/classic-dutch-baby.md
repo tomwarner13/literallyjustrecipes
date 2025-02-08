@@ -3,6 +3,7 @@ date = '2024-12-29T10:33:50-05:00'
 draft = false
 title = 'Classic Dutch Baby'
 summary = 'A giant puffy pancake baked in a skillet.'
+tags = ['breakfasts','entrees']
 +++
 
 ## Ingredients

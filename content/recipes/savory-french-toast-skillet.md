@@ -3,6 +3,7 @@ date = '2024-11-29T17:46:51-05:00'
 draft = false
 title = 'Savory French Toast Skillet'
 summary = 'A flavorful, hearty breakfast main to feed a crowd with.'
+tags = ['breakfasts','entrees']
 +++
 
 ## Ingredients

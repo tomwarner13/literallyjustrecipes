@@ -3,6 +3,7 @@ date = '2024-11-29T10:33:29-05:00'
 draft = false
 title = 'Harissa Glazed Carrots'
 summary = 'Roasted carrots with a spicy-sweet glaze served over creamy labneh.'
+tags = ['sides']
 +++
 ## Ingredients
 

@@ -8,7 +8,7 @@
     <label for="searchField">Search (regexes accepted):</label><br>
     <input type="text" id="searchField" name="searchField">
     {{ range .Pages.ByTitle }}
-      <article class="post post-search on-list" data-search-content="{{ .Title | markdownify }}&nbsp;{{- .Date.Format "2006-01-02" -}}&nbsp;{{ .Summary }}">
+  <article class="post post-search on-list" data-search-content="{{ .Title | markdownify }}&nbsp;{{- .Date.Format "2006-01-02" -}}&nbsp;{{ .Summary }}{{ range .Params.tags }}&nbsp;#{{ . }}{{ end }}">
         <h2 class="post-search-title">
           <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a> ||&nbsp;{{- if .Date -}}
             <time class="post-date">
@@ -22,17 +22,17 @@
           {{- end -}}
           <!-- comments counter -->
           {{ partial "comments_counter.html" . }}
-        </div>
 
-        {{ if .Params.tags }}
-          <span class="post-tags">
-            {{ range .Params.tags }}
-            #<a href="{{ (urlize (printf "tags/%s/" . )) | absLangURL }}">
-              {{- . -}}
-            </a>&nbsp;
-            {{ end }}
-          </span>
-        {{ end }}
+          {{ if .Params.tags }}
+            <span class="post-tags">
+              {{ range .Params.tags }}
+              #<a href="{{ (urlize (printf "tags/%s/" . )) | absLangURL }}">
+                {{- . -}}
+              </a>&nbsp;
+              {{ end }}
+            </span>
+          {{ end }}
+        </div>
 
         {{ partial "cover.html" . }}
 

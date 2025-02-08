@@ -3,6 +3,7 @@ date = '2024-12-23T20:28:18-05:00'
 draft = false
 title = 'Shakshuka'
 summary = 'Hearty, spicy, tomato-y, eggy.'
+tags = ['breakfasts','entrees']
 +++
 ## Ingredients
 

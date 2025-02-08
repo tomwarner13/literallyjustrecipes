@@ -3,6 +3,7 @@ date = '2025-01-23T21:24:35-05:00'
 draft = false
 title = 'Rice Pilaf'
 summary = 'Fluffy and flavorful side.'
+tags = ['sides']
 +++
 
 ## Ingredients

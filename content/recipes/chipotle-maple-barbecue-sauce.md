@@ -3,6 +3,7 @@ date = '2025-01-19T10:53:11-05:00'
 draft = false
 title = 'Chipotle Maple Barbecue Sauce'
 summary = 'Sweet and thick with a kick.'
+tags = ['sauces']
 +++
 
 ## Ingredients

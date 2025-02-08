@@ -3,6 +3,7 @@ date = '2025-01-12T10:59:23-05:00'
 draft = false
 title = 'Miso Honey Salmon'
 summary = 'Healthy, quick, flavorful.'
+tags = ['entrees']
 +++
 
 ## Ingredients

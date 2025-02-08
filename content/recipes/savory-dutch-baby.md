@@ -3,6 +3,7 @@ date = '2024-12-29T09:34:09-05:00'
 draft = false
 title = 'Savory Dutch Baby'
 summary = 'Somewhere between a fritatta and a quiche. A vehicle for whatever good things you want to put with eggs, flour, and butter.'
+tags = ['breakfasts','entrees']
 +++
 
 ## Ingredients
