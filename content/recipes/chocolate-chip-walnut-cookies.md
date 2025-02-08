@@ -3,6 +3,7 @@ date = '2024-12-07T16:54:54-05:00'
 draft = false
 title = 'Chocolate Chip Walnut Cookies'
 summary = 'This is the best chocolate chip cookie recipe in the universe, as far as I am aware.'
+tags = ['desserts']
 +++
 ## Ingredients
 

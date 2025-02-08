@@ -3,6 +3,7 @@ date = '2024-11-29T11:52:50-05:00'
 draft = false
 title = 'Pecan Pie Bars'
 summary = 'Pecan pie, but in bite-sized bar form.'
+tags = ['desserts']
 +++
 ## Ingredients
 

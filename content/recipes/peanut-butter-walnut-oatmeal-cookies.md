@@ -3,6 +3,7 @@ date = '2024-12-11T19:53:49-05:00'
 draft = false
 title = 'Peanut Butter Walnut Oatmeal Cookies'
 summary = 'Rich and nutty.'
+tags = ['desserts']
 +++
 ## Ingredients
 

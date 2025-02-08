@@ -3,6 +3,7 @@ date = '2024-12-08T11:04:34-05:00'
 draft = false
 title = 'Pumpkin Rugelach'
 summary = 'Sage and walnuts pair with pumpkin for a savory appetizer.'
+tags = ['apps']
 +++
 ## Ingredients
 

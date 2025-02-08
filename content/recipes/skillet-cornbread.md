@@ -3,6 +3,7 @@ date = '2025-01-13T08:32:41-05:00'
 draft = false
 title = 'Skillet Cornbread'
 summary = 'The best way to make cornbread is in a cast-iron skillet. This is that way.'
+tags = ['sides']
 +++
 
 ## Ingredients

@@ -3,6 +3,7 @@ date = '2024-12-03T08:17:17-05:00'
 draft = false
 title = 'Peanut Butter Miso Cookies'
 summary = 'Miso adds a savory richness to soft peanut butter cookies.'
+tags = ['desserts']
 +++
 ## Ingredients
 
