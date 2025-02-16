@@ -20,7 +20,7 @@ tags = ['sides']
 
 ## Instructions
 
-1. In a large skillet or pan, heat 1 tbsp olive oil on medium. Add onion and saute for 90 seconds until fragrant.
+1. In a large skillet or pan, heat 1 tbsp olive oil on medium. Add shallot and saute for 90 seconds until fragrant.
 2. Add orzo and minced garlic. Saute for 3 minutes, stirring often.
 3. Add remaining 1 tbsp olive oil. Stir in rice. Continue to toast for 4 to 5 minutes until rice and orzo are translucent.
 4. Add all seasonings to rice, stir to combine. Stir in stock. Cover. Turn up heat and bring to a boil, then turn down to medium-low to simmer.
