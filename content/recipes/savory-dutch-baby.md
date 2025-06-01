@@ -19,6 +19,8 @@ tags = ['breakfasts','entrees']
 - 2 tablespoons minced chives, parsley and/or tarragon
 - 1 tbsp dried savory
 - 1/2 cup fresh or frozen spinach, and/or chopped basil
+- 1/4 cup grated Parmesan cheese
+- Flaky sea salt, to taste
 - Any spicy and/or savory sauces, for serving
 - Lemon wedges, for serving
 
