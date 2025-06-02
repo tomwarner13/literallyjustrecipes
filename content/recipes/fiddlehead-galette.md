@@ -14,14 +14,14 @@ tags = ['sides']
 - 1 tsp chopped thyme
 - 1 tsp chopped parsley
 - 1 tsp chopped savory
-- 8 tbsp (1 stick) frozen unsalted butter
+- 8 tbsp (1 stick) unsalted butter
 - 1/4 cup plain greek yogurt
 - 1/4 cup ice cold water
 - 2 tsp lemon juice
 
 ### Filling
 
-- 1/2 cup goat cheese softened to room temperature
+- 1/2 cup goat cheese
 - 1/2 cup shredded or crumbled mozarella cheese
 - 1/4 cup pesto
 - 1/2 lb fresh fiddleheads, trimmed, cleaned of brown bits, rinsed well under cold water
