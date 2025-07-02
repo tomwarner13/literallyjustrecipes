@@ -1,7 +1,6 @@
 .footer {
   padding: 40px 0;
   flex-grow: 0;
-  opacity: .5;
   justify-content: $centerTheme;
 
   &__inner {
@@ -11,6 +10,7 @@
     margin: 0;
     width: 760px;
     max-width: 100%;
+    opacity: .5;
 
     @media (max-width: $tablet) {
       flex-direction: column;
@@ -35,7 +35,6 @@
 
     #wake-setting {
       font-weight: bold;
-      opacity: .9;
     }
   }
 
