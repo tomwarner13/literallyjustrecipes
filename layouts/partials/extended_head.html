@@ -1,0 +1,14 @@
+{{ $menu := resources.Get "js/menu.js" | js.Build }}
+{{ $bundle := slice $menu | resources.Concat "bundle.js" | resources.Minify }}
+
+<script type="text/javascript" src="{{ $bundle.RelPermalink }}" async defer></script>
+
+{{ if and .IsPage (eq .Type $.Site.Params.contentTypeName) }}
+  {{ $wakeJs := resources.Get "js/wake.js" | minify  }}
+  <script type="text/javascript" src="{{ $wakeJs.RelPermalink }}" async defer></script>
+{{ end }}
+
+{{ if and (not .IsPage) (eq .Type $.Site.Params.contentTypeName) }}
+  {{ $searchJs := resources.Get "js/search.js" | minify  }}
+  <script type="text/javascript" src="{{ $searchJs.RelPermalink }}" async defer></script>
+{{ end }}

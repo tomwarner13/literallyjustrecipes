@@ -17,27 +17,5 @@
   </div>
 </footer>
 
-{{ $menu := resources.Get "js/menu.js" | js.Build }}
-{{ $bundle := slice $menu | resources.Concat "bundle.js" | resources.Minify }}
-
-<script type="text/javascript" src="{{ $bundle.RelPermalink }}" async defer></script>
-
-<!-- Banner JS if it enabled -->
-{{ if .Site.Params.Banner }}
-  {{ $banner := resources.Get "js/banner.js" | js.Build | resources.Minify }}
-
-  <script type="text/javascript" src="{{ $banner.RelPermalink }}"></script>
-{{ end }}
-
-{{ if and .IsPage (eq .Type $.Site.Params.contentTypeName) }}
-  {{ $wakeJs := resources.Get "js/wake.js" | minify  }}
-  <script type="text/javascript" src="{{ $wakeJs.RelPermalink }}" async defer></script>
-{{ end }}
-
-{{ if and (not .IsPage) (eq .Type $.Site.Params.contentTypeName) }}
-  {{ $searchJs := resources.Get "js/search.js" | minify  }}
-  <script type="text/javascript" src="{{ $searchJs.RelPermalink }}" async defer></script>
-{{ end }}
-
 <!-- Extended footer section-->
 {{ partial "extended_footer.html" . }}
