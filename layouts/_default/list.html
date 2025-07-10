@@ -6,7 +6,7 @@
   {{ end }}
   <div class="posts">
     <label for="searchField">Search (regexes accepted):</label><br>
-    <input type="text" id="searchField" name="searchField">
+    <input type="text" id="searchField" name="searchField" autofocus>
     {{ range .Pages.ByTitle }}
   <article class="post post-search on-list" data-search-content="{{ .Title | markdownify }}&nbsp;{{- .Date.Format "2006-01-02" -}}&nbsp;{{ .Summary }}{{ range .Params.tags }}&nbsp;#{{ . }}{{ end }}">
         <h2 class="post-search-title">
