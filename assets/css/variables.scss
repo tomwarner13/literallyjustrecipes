@@ -4,7 +4,7 @@
   --accent-contrast-color: black;
   --color: white;
   --border-color: rgba(255, 255, 255, .1);
-  --article-link-color: var(inherit);
+  --article-link-color: var(--accent);
 }
 
 // Native CSS Variable aren't supported in a combination with MEDIA QUERIES. Wait for a new standard https://drafts.csswg.org/css-env-1/ 
