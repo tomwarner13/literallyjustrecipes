@@ -15,7 +15,7 @@ tags = ['sides']
 - 3 tbsp honey
 - 1 1/3 cup whole milk
 - 2 eggs
-- 1 stick (8 tbsp) butter*
+- 1 stick (8 tbsp) butter[^1]
 
 ## Instructions
 
@@ -24,4 +24,4 @@ tags = ['sides']
 3. When the oven reaches 400, remove the skillet and set the oven down to 375. Add the remaining 1 tbsp butter to the bottom of the skillet and swirl it around as it melts to coat the surface. Pour batter into the the skillet.
 4. Return the skillet to the oven and bake 20-25 minutes until the top just starts to turn golden brown, and a toothpick or knife inserted through the center of the cornbread comes out clean. Slice and serve (carefully) hot from the skillet.
 
-\*If you have bacon fat on hand it can be a flavorful substitute for some or all of the butter.
+[^1]: If you have bacon fat on hand it can be a flavorful substitute for some or all of the butter.
