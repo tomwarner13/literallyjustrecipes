@@ -29,6 +29,7 @@ body {
   }
 }
 
+/* the class name lies, whaddayagonnado */
 .headings--one-size {
   h1,
   h2,
@@ -46,8 +47,12 @@ body {
     font-size: 1.4rem;
   }
 
-  h2,
-  h3,
+  h2 {
+    line-height: 1.2;
+    font-size: 1.3rem;
+  }
+
+  h3
   h4,
   h5,
   h6 {
