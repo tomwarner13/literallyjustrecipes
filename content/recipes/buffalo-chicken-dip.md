@@ -3,7 +3,7 @@ date = '2025-02-09T18:00:00-05:00'
 draft = false
 title = 'Buffalo Chicken Dip'
 summary = 'The secret to the ideal buff chicks dip is finely diced chicken to distribute it in every bite.'
-tags = ['sides']
+tags = ['apps']
 +++
 ## Ingredients
 

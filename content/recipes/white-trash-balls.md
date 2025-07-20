@@ -3,7 +3,7 @@ date = '2025-02-09T18:10:00-05:00'
 draft = false
 title = 'White Trash Balls'
 summary = "Cream cheese and pepperoni baked in crescent roll dough. Win your trailer park's football watch party."
-tags = ['sides']
+tags = ['apps']
 +++
 ## Ingredients
 
