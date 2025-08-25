@@ -10,7 +10,7 @@ tags = ['components']
 - 1.5 cups AP flour
 - 1/2 tsp salt
 - 1 tbsp sugar[^1]
-- 3 tbsp vegatable shortening
+- 3 tbsp vegetable shortening
 - 6 tbsp cold unsalted butter
 - Ice water (you'll probably need half a cup at most)
 
