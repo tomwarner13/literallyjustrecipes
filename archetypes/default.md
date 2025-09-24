@@ -12,3 +12,5 @@ tags = ['sides','apps']
 ## Instructions
 
 1. Cook.
+
+Makes N servings.
