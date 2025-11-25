@@ -1,13 +1,17 @@
 function initSearch() {
   const postElements = document.querySelectorAll("article.post-search");
   const counter = document.getElementById("current-count");
+  const counterPadding = counter.innerText.length;
 
   function applySearchFilter(filter) {
     let searchRegex = new RegExp(filter, "i");
+    let visibleCount = 0;
     postElements.forEach((element) => {
-      element.hidden = !searchRegex.test(element.attributes["data-search-content"].value);
+      let isVisible = searchRegex.test(element.attributes["data-search-content"].value);
+      element.hidden = !isVisible;
+      if(isVisible) visibleCount++;
     });
-    counter.innerText = String(document.querySelectorAll(".post:not([hidden])").length).padStart(2, '0');
+    counter.innerText = String(visibleCount).padStart(counterPadding, '0');
   }
 
   const searchInput = document.getElementById("searchField");
