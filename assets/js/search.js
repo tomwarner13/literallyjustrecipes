@@ -7,7 +7,7 @@ function initSearch() {
     postElements.forEach((element) => {
       element.hidden = !searchRegex.test(element.attributes["data-search-content"].value);
     });
-    counter.innerText = document.querySelectorAll(".post:not([hidden])").length;
+    counter.innerText = String(document.querySelectorAll(".post:not([hidden])").length).padStart(2, '0');
   }
 
   const searchInput = document.getElementById("searchField");
