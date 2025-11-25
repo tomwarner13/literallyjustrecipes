@@ -1,11 +1,13 @@
 function initSearch() {
   const postElements = document.querySelectorAll("article.post-search");
+  const counter = document.getElementById("current-count");
 
   function applySearchFilter(filter) {
     let searchRegex = new RegExp(filter, "i");
     postElements.forEach((element) => {
       element.hidden = !searchRegex.test(element.attributes["data-search-content"].value);
     });
+    counter.innerText = document.querySelectorAll(".post:not([hidden])").length;
   }
 
   const searchInput = document.getElementById("searchField");
