@@ -18,8 +18,8 @@ tags = ['sides']
 ### Potatoes
 
 - 2 lbs Russett or Yukon Gold potatoes
-- 4 tbsp butter, softened
-- 3/4 cup half-and-half
+- 4 tbsp butter, softened if not melted
+- 3/4 cup half-and-half, room temperature if not warmer
 - 2 tsp minced rosemary leaves
 - 1 tsp minced thyme leaves
 - Salt
@@ -36,7 +36,7 @@ tags = ['sides']
 
 ### Make the Potatoes
 
-1. Peel the potatoes and chop into roughly inch-thick chunks. Boil a large pot of heavily salted water. Add the potatoes and boil hard for roughly 15-20 minutes, until soft and tender. Remove from heat, drain water.
+1. Peel the potatoes and chop into roughly inch-thick chunks. Add to a large pot of heavily salted, unheated water. Set on high heat, bring to a boil, and hold at a simmer for roughly 15-20 minutes, until soft and tender (you can insert a fork all the way with little resistance). Remove from heat, drain water.
 2. Remove about 3/4 of the garlic cloves from the oil to a large mixing bowl (stand mixer recommended). Mash with a fork into a paste.
 3. Add the butter, half-and-half, minced herbs, 1 tbsp of the confit oil, hearty pinches of salt and pepper, and potatoes to the mixing bowl. Mix using the whisk of a stand mixer until creamy.
 4. For serving, add the remaining garlic cloves to the top, and drizzle with a little of the confit oil.
