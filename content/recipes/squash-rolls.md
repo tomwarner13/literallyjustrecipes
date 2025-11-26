@@ -22,7 +22,7 @@ tags = ['sides']
 ## Instructions
 
 1. In a large mixing bowl, dissolve yeast in warm water. Stir in sugar and let sit 5 minutes, or until yeast starts to activate.
-2. Stir in milk, squash, brown sugar, egg, and salt.
+2. Stir in milk, squash, butter, brown sugar, egg, and salt.
 3. Add whole wheat flour and beat at medium speed for 2 minutes. Stir in just enough of the AP flour to form a soft, delicate dough.
 4. Turn dough onto a floured surface, knead lightly until smooth and just elastic, about 10 minutes. Place in oiled bowl, turning once to evenly coat. Cover and proof in a warm place until roughly doubled, about 1 hour.
 5. Punch dough down and turn onto a floured surface; divide into ~20 pieces. Shape each piece into a ball. Place ~2 inches apart on baking sheet(s) coated with cooking spray. Cover and let rise in a warm place until about doubled, about 45 minutes. Preheat oven to 400 when getting ready to bake.
