@@ -72,6 +72,20 @@
   }
 }
 
+#mobile-nav {
+  display: none;
+  @media (max-width: $phone) {
+    display: block;
+  }
+}
+
+#desktop-nav {
+  display: block;
+  @media (max-width: $phone) {
+    display: none;
+  }
+}
+
 .menu {
   display: flex;
   flex-direction: column;
