@@ -3,7 +3,7 @@ date = '2025-11-23T18:12:08-05:00'
 draft = false
 title = 'Pumpkin Pie Spice'
 summary = 'Reject corporate coffee shop chains, blend your own spice.'
-tags = ['components']
+tags = ['components','spices']
 +++
 
 ## Ingredients
