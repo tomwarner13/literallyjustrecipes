@@ -21,7 +21,7 @@ tags = ['sides']
 
 1. Put a 12-inch cast iron skillet in oven. Preheat oven to 400.
 2. Whisk all dry ingredients together in a large bowl. Whisk in the milk, honey, eggs, and 7 melted tbsp of the butter; continue until mixture is all incorporated.
-3. When the oven reaches 400, remove the skillet and set the oven down to 375. Add the remaining 1 tbsp butter to the bottom of the skillet and swirl it around as it melts to coat the surface. Pour batter into the the skillet.
+3. When the oven reaches 400, remove the skillet and set the oven down to 375. Add the remaining 1 tbsp butter to the bottom of the skillet and swirl it around as it melts to coat the surface. Pour batter into the skillet.
 4. Return the skillet to the oven and bake 20-25 minutes until the top just starts to turn golden brown, and a toothpick or knife inserted through the center of the cornbread comes out clean. Slice and serve (carefully) hot from the skillet.
 
 [^1]: If you have bacon fat on hand it can be a flavorful substitute for some or all of the butter.
