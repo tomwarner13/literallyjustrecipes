@@ -26,7 +26,7 @@ tags = ['entrees']
 
 ## Instructions
 
-1. Flatten out chicken thighs and season heavily with Ras el Hanout, salt, and pepper. Heat 1 tbsp EVOO to a large (at least-12-inch) skillet and heat on medium-high until shimmering. Add chicken thighs and sear hard, turning once, until both sides are browned, about 2 minutes per side. Remove chicken and set aside.
+1. Flatten out chicken thighs and season heavily with Ras el Hanout, salt, and pepper. Add 1 tbsp EVOO to a large (at least-12-inch) skillet and heat on medium-high until shimmering. Add chicken thighs and sear hard, turning once, until both sides are browned, about 2 minutes per side. Remove chicken and set aside.
 2. Add remaining tablespoon of EVOO to the hot skillet and add the mushrooms and chopped shallot. Saute, stirring occasionally, until mushrooms are starting to brown all around, about 6 minutes.
 3. Add harissa, garlic, and thyme to the skillet and cook, stirring often, until fragrant, 2 minutes at most. Stir in chicken broth and deglaze the bottom of the skillet.
 4. Slowly stir in half-and-half to the skillet until fully incorporated. Bring to a simmer and stir in the gnocchi.
