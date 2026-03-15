@@ -2,7 +2,7 @@
 date = '2026-03-15T15:57:59-04:00'
 draft = false
 title = 'Brownies'
-summary = "You already know you like them. These ones get an extra rich/complex flavor from olive oil, but you could sub in a neutral vegatable oil if you'd rather stay basic"
+summary = "You already know you like them. These ones get an extra rich/complex flavor from olive oil, but you could sub in a neutral vegatable oil if you'd rather stay basic."
 tags = ['desserts']
 +++
 
