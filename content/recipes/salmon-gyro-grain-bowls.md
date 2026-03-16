@@ -36,7 +36,7 @@ tags = ['entrees']
 
 1. Cook the rice, quinoa, millet, or farro up to 2-3 days ahead, but before the rest of the recipe.
 
-### Salmon and tomato topping
+### Salmon and Tomato Topping
 
 1. Unwrap the salmon and put it in a shallow bowl or tray that will hold all of it spread out, skin side down, plus have room to marinate. Refrigerate until about an hour before serving time.
 2. Set the oven at 375.
