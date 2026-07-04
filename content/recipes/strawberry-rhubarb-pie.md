@@ -8,8 +8,8 @@ tags = ['desserts']
 
 ## Ingredients
 - 1 [pie crust](/literallyjustrecipes/recipes/pie-crust/), unbaked
-- 3 cups rhubarb, chopped into 1/2-inch pieces
-- 2 cups hulled and cubed strawberries
+- 3 cups (roughly 1 lb) rhubarb, chopped into 1/2-inch pieces
+- 2 cups (1 lb) hulled and cubed strawberries[^1]
 - 1/2 cup brown sugar
 - 1/2 cup white sugar
 - 1/2 cup all-purpose flour
@@ -36,3 +36,5 @@ tags = ['desserts']
 Makes 1 pie.
 
 *(recipe cred: my mother Dorothy)*
+
+[^1]: Replace the strawberries with whole fresh blueberries for a bluebarb pie. No other changes are necessary.
