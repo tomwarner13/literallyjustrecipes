@@ -24,6 +24,7 @@ tags = ['breakfasts','entrees']
 
 - 1/3 cup packed light brown sugar
 - 1/3 cup all-purpose flour
+- 1/3 cup quick oats
 - 1/2 tsp ground cinnamon
 - 6 tbsp unsalted butter, cold and cubed
 - Powdered sugar for sprinkling, optional
@@ -35,7 +36,7 @@ tags = ['breakfasts','entrees']
 3. With a mixer, beat the cream cheese until smooth. Beat in the powdered sugar and 1/2 tsp vanilla extract until smooth and combined. Drop large spoonfuls of the cream cheese into the pan over the bread somewhat evenly. Scatter the blueberries among the cream cheese spoonfuls. Cover with the rest of the bread cubes (it's ok to leave some cream cheese exposed).
 4. Whisk the eggs, milk, cinammon, brown sugar, and remaining vanilla together until smooth. Pour evenly over the bread. Cover the pan tightly with plastic wrap and refrigerate for at least 3-4 hours but ideally overnight.
 5. When ready to bake, preheat oven to 350.
-6. Make the topping. Whisk the brown sugar, flour, and cinammon together in a medium bowl. Cut in the cold butter with a pastry blender until the biggest lumps are roughly pea sized. Sprinkle evenly over the casserole.
+6. Make the topping. Whisk the brown sugar, flour, oats, and cinammon together in a medium bowl. Cut in the cold butter with a pastry blender until the biggest lumps are roughly pea sized. Sprinkle evenly over the casserole.
 7. Bake uncovered roughly 40-55 minutes, until the top is golden brown and the egg mixture has set (a knife inserted in the center comes out without any egg mixture). Sprinkle powdered sugar on top if desired, and serve hot with maple syrup.
 
 Makes roughly 8 servings.
