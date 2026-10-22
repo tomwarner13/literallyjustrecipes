@@ -10,7 +10,7 @@ tags = ['entrees']
 
 ### Chipotle Sauce
 
-- 3 chipotle peppers in adobo sauce (individual peppers)
+- 1 chipotle pepper in adobo sauce (1 pepper, not 1 can...unless you want to burn)
 - 2 tsp adobo sauce (from the can)
 - 3 tbsp lime juice (fresh is best, or 1/2 a lime, sliced)
 - 1 tbsp better than bouillon beef or vegetable base (optional but recommended)
