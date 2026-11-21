@@ -1,8 +1,9 @@
 baseURL = 'https://example.org/'
-# languageCode = 'en-us'
+locale = 'en-US'
 title = 'Literally Just Recipes'
 
 baseurl = "/"
+# deprecated, will be removed, keeping for now in case site is developed or deployed in older Hugo versions 
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
