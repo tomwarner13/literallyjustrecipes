@@ -42,17 +42,17 @@ tags = ['sides','apps']
 
 ### Stock
 
-1. HIGHLY RECOMMENDED: make your own poultry stock. Buy whatever small pack of chicken is available/ on sale - a pack of wings is fine, or a couple of bone-in thighs. As long as there are bones, you're good. Or, wait until closer to Thanksgiving and use the neck from the turkey. 
+1. HIGHLY RECOMMENDED: make your own poultry stock. Buy whatever small pack of chicken is available/on sale - a pack of wings is fine, or a couple of bone-in thighs. As long as there are bones, you're good. Or, wait until closer to Thanksgiving and use the neck from the turkey. 
 
-2. Use a pan/ pot that can go both in the oven and on the stove- a Dutch oven or any other oven safe pan. Toss the chicken in there with a couple of hacked up carrots, a split onion WITH THE PEEL ON (for the color and flavor), and some hacked up celery. Add a small amount of olive oil, just to coat things lightly, and put the pan in the oven at 400 for about 30 minutes. At that point, the vegetables and chicken will be nicely brown.
+2. Use a pan/pot that can go both in the oven and on the stove--a Dutch oven or any other oven safe pan. Toss the chicken in there with a couple of hacked up carrots, a split onion WITH THE PEEL ON (for the color and flavor), and some hacked up celery. Note that any color from the veggies will contribute to the stock, so if (say) you use purple carrots and red onion, you will end up with a purple stock. Add a small amount of olive oil, just to coat things lightly, and put the pan in the oven at 400 for about 30 minutes. At that point, the vegetables and chicken will be nicely brown.
 
-3. Put the pan on your stovetop - carefully add about 4 -5 c cool water (careful because there's going to be a little steaming). Put the pan on the burner and turn the heat to medium high. Add a few whole peppercorns, a couple of bay leaves, and about 2 tsp salt. Bring the mixture to a boil and then lower the heat, and let it simmer/ bubble gently for about 45 minutes.
+3. Put the pan on your stovetop - carefully add about 4-5 c cool water (careful because there's going to be a little steaming). Put the pan on the burner and turn the heat to medium high. Add a few whole peppercorns, a couple of bay leaves, and about 2 tsp salt. Bring the mixture to a boil and then lower the heat, and let it simmer/ bubble gently for about 45 minutes.
 
-4. Turn off the heat. If you can get some fresh thyme and / or rosemary, add them now, a couple sprigs of each, and a couple of sprigs of parsley. Add them to the hot stock and stir them in just gently. Let the whole thing cool to still warm but not screaming hot. Strain the liquid into a bowl or other container that can hold about a quart. Can be done easily a week ahead of time. Discard the bones, herbs, meat, and vegetables. Refrigerate or freeze the stock.
+4. Turn off the heat. If you can get some fresh thyme and/or rosemary, add them now, a couple sprigs of each, and a couple of sprigs of parsley. Add them to the hot stock and stir them in just gently. Let the whole thing cool to still warm but not screaming hot. Strain the liquid into a bowl or other container that can hold about a quart. Can be done easily a week ahead of time. Discard the bones, herbs, meat, and vegetables. Refrigerate or freeze the stock.
 
 ### Breads 
 
-1. Bake up a 9x9 pan of cornbread, any recipe. For stuffing, I don't like mixes or store bakery cornbread because generally, they have too much sugar. Whatever cornbread recipe you use, dial back the sugar to 2-3 tablespoons. (In cornbread people are going to eat, the sugar is there for the flavor and to help keep the texture from being too crumbly. Stuffing gets its flavor elsewhere, and you WANT this bread to crumble). Once the cornbread is baked, let it cool and then break it into chunks, not teeny crumbs.
+1. Bake up a 9x9 pan of cornbread, any recipe. For stuffing, I don't like mixes or store bakery cornbread because generally, they have too much sugar. Whatever cornbread recipe you use, dial back the sugar to 2-3 tablespoons. (In cornbread people are going to eat, the sugar is there for the flavor and to help keep the texture from being too crumbly. Stuffing gets its flavor elsewhere, and you WANT this bread to crumble). Once the cornbread is baked, let it cool and then break it into chunks, not teeny crumbs. ANNIE NOTE: If you don’t want to make cornbread from scratch, I used two boxes of Jiffy mix, added maybe a 1/4 cup of flour, and then baked it a couple minutes longer than the longest recommended time. It crumbled great.
 
 2. For the other bread - either bake a sourdough or country style loaf, or pick up one at Costco or the market. It's best if the loaf is not sliced, but, if it is, so be it. Unsliced, break the bread into bite sized chunks. Unless the crust is very tough and chewy, leave it on.
 
@@ -72,4 +72,4 @@ tags = ['sides','apps']
 
 4. Bake it, covered with foil, about 30 minutes in a 350-375 oven (you may be baking other casseroles alongside). After 30 minutes, remove the foil and let it brown for about 15-20 minutes. It can stand, in a warm spot, for at least 20 minutes before you serve it.
 
-*recipe (guideline? process?) cred: my mother Dorothy*
+*recipe (guideline? process?) cred: my mother Dorothy, with additions from my sister Annie*
