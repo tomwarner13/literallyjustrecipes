@@ -3,7 +3,7 @@ date = '2026-11-21T11:20:35-05:00'
 draft = false
 title = 'Stuffing'
 summary = "\"...there's not a \"recipe.\" It's more of a series of steps, I guess...\""
-tags = ['sides','apps']
+tags = ['sides']
 +++
 
 ## Ingredients
