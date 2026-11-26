@@ -16,7 +16,7 @@ tags = ['sauces']
 - juice of 1 lemon
 - salt and pepper, to taste
 
-## Instructions
+!!INS!!
 
 1. Add the garlic, cheese, and nuts to a food processor. Pulse until they are the size of small pebbles.
 2. Add the basil and parsley and pulse until the leaves are shredded into a uniform paste.

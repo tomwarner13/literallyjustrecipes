@@ -24,7 +24,7 @@ tags = ['apps']
 - 1 tsp water
 - flakey salt and/or finely shredded parmesan cheese for sprinkling
 
-## Instructions
+!!INS!!
 
 1. Make the dough: Cut the butter and cream cheese into ~tbsp sized pats and let soften for ~15m. Pulse flour and salt in food processer, then add butter and cream cheese and pulse several times, until the mixture has formed large crumbly chunks. Gather the dough into 2 large balls, flatten into disks and wrap in plastic wrap. Refrigerate for at least 2 hours, up to overnight.
 2. Make the filling: Head 3tbsp EVOO in large skillet until shimmering. Add shallots, sage, savory, and pepper flakes and cook until fragrant (~2min). Stir in the pumpkin puree and cook ~5m more to reduce water. Season with kosher salt and black pepper. Remove from heat and cool to room temperature. 

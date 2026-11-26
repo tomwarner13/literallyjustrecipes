@@ -19,7 +19,7 @@ tags = ['sides']
 - 2 cups whole wheat flour
 - 2 to 2 1/2 cups AP flour
 
-## Instructions
+!!INS!!
 
 1. In a large mixing bowl, dissolve yeast in warm water. Stir in sugar and let sit 5 minutes, or until yeast starts to activate.
 2. Stir in milk, squash, butter, brown sugar, egg, and salt.

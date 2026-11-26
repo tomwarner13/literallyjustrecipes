@@ -17,7 +17,7 @@ tags = ['apps']
 - 1 stalk celery, finely minced (optional)
 - 1/4 cup sliced green onions
 
-## Instructions
+!!INS!!
 
 1. Preheat oven to 350 degrees.
 2. If using onion/celery, add a drizzle of olive oil to a frying pan and heat it to medium-high. When the oil shimmers, add the minced veggies and saute aggressively until they start to brown. Remove from heat and set veggies aside in a small bowl.

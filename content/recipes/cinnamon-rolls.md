@@ -32,7 +32,7 @@ tags = ['breakfasts']
 - 2 cups powdered sugar
 - 1/2 tbsp maple and/or vanilla extract
 
-## Instructions
+!!INS!!
 
 ### Make dough
 

@@ -21,7 +21,7 @@ tags = ['desserts']
 - 2 2/3 cups semi sweet chocolate chips
 - 1 3/4 cups chopped walnuts
 
-## Instructions
+!!INS!!
 
 1. Line 2 large baking sheets with parchment paper (if you do not have 2 large baking sheets, you'll have to bake in batches).
 2. Cream butter and sugars together in a stand mixer until light and fluffy, scraping sides as needed.

@@ -33,7 +33,7 @@ tags = ['entrees']
 - 1/2 cup beef broth (reduced sodium is preferred)
 - 1 bay leaf
 
-## Instructions
+!!INS!!
 
 1. Add all chipotle sauce ingredients (except lime slices, if using) to a blender and blend until smooth.
 2. If using a whole beef chuck roast, trim off any substantial fat, then cut into large chunks. Season chunks with salt and pepper.

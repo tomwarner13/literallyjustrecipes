@@ -25,7 +25,7 @@ tags = ['breakfasts','entrees']
 - Any spicy and/or savory sauces, for serving
 - Lemon wedges, for serving
 
-## Instructions
+!!INS!!
 
 1. Heat oven to 425 degrees. In a large bowl, whisk together flour, salt, pepper, paprika, pepper flakes and dried herbs. In a separate bowl, whisk together eggs and milk. Whisk wet ingredients into dry until just combined. Stir in spinach/basil and any remaining herbs to form a consistent batter.
 2. Melt the butter in a heavy 12-inch ovenproof skillet over medium-high heat. Let it cook until it just smells nutty and browns, about 5 to 7 minutes, then swirl skillet so that butter coats bottom of pan.

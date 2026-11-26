@@ -17,7 +17,7 @@ tags = ['desserts']
 - 1/3 powdered sugar
 - 1 1/2 cups melting chocolate (good chips are fine if they'll melt), I recommend dark but you can't go wrong
 
-## Instructions
+!!INS!!
 
 1. Add the Nilla wafers and pecans to a food processor. Pulse hard until everything is reduced to crumbs.
 2. Add in the syrup, cocoa, bourbon, vanilla, salt, and powdered sugar and pulse until everything is combined and mixture starts to form a single large ball.

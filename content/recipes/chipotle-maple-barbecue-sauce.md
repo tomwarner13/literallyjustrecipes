@@ -22,7 +22,7 @@ tags = ['sauces']
 - 2 cloves garlic
 - 1 canned chipotle pepper in adobo sauce (not one can, 1 pepper)
 
-## Instructions
+!!INS!!
 
 1. Add the chipotle pepper, garlic, and apple cider vinegar to a blender; blend till smooth.
 2. Add all ingredients to a medium saucepan, stir to combine. Cover, bring to a simmer, and simmer at low heat for 15 minutes, stirring occasionally.

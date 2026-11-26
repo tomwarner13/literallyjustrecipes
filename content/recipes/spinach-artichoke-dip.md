@@ -17,7 +17,7 @@ tags = ['sides','apps']
 - 1 tsp red pepper flakes (or to taste)
 - Salt and pepper, to taste
 
-## Instructions
+!!INS!!
 
 1. Preheat oven to 375.
 2. Spread the spinach out on a gently oiled baking sheet. Bake for roughly 6 minutes, watching closely, until just crispy.

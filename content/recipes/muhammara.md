@@ -21,7 +21,7 @@ tags = ['dips','apps']
 - Hot sauce, to taste
 - Chopped fresh parsley, for garnish
 
-## Instructions
+!!INS!!
 
 1. Preheat oven to 425.
 2. Brush the bell peppers lightly with EVOO, and place in a cast-iron skillet or other oven-safe pan. Roast in the oven for 30 minutes until they start to blacken, turning over halfway through.

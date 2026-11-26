@@ -21,7 +21,7 @@ tags = ['breakfasts','entrees']
 - powdered sugar, for garnish
 - maple syrup, for serving
 
-## Instructions
+!!INS!!
 
 1. Preheat oven to 425 degrees. Heat a cast-iron skillet in the oven while it preheats, until piping hot.
 2. In a blender, combine flour, milk, sugar, eggs, 3 tbsp of melted butter, salt, and seasonings. Blend until batter is fully mixed and frothy.

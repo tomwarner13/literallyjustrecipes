@@ -18,7 +18,7 @@ tags = ['desserts']
 - 2 tablespoons water
 - 1/2 teaspoon vanilla extract
 
-## Instructions
+!!INS!!
 
 1. Preheat oven to 325. Spray an 8x8 pan with cooking spray, or for easier removal line it with parchment paper then spray.
 2. In a medium bowl, whisk together sugar, flour, cocoa powder, powdered sugar, chocolate chips, and salt.

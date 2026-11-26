@@ -20,7 +20,7 @@ tags = ['entrees']
 - Water
 - Rice, for serving
 
-## Instructions
+!!INS!!
 
 1. In a deep skillet or dutch oven, heat oil on medium-high heat. Add sausage and cook until brown. Remove sausage and set aside.
 2. Add celery, then peppers, then onions, to the hot oil and cook until well browned. Add in garlic and hefty amounts of cajun seasoning, salt, and pepper towards the very end. 

@@ -19,7 +19,7 @@ tags = ['breakfasts','entrees']
 - 1/2 cup grated Swiss cheese
 
 
-## Instructions
+!!INS!!
 
 1. Preheat oven to 350.
 2. Blind bake the crust: add the crust to a 9-inch pie plate. Use a fork to pierce holes across the bottom. Cut a piece of aluminum foil to roughly cover the whole crust. Spread butter or cooking spray across the bottom and gently press it over the dough, fully covering it. Fill the inside with pie weights. Insert in oven and bake until pastry is set and feels dry, 15-20 minutes.

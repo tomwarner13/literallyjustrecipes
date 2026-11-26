@@ -17,7 +17,7 @@ tags = ['sides']
 - 2 eggs
 - 1 stick (8 tbsp) butter[^1]
 
-## Instructions
+!!INS!!
 
 1. Put a 12-inch cast iron skillet in oven. Preheat oven to 400.
 2. Whisk all dry ingredients together in a large bowl. Whisk in the milk, honey, eggs, and 7 melted tbsp of the butter; continue until mixture is all incorporated.

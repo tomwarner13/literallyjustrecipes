@@ -33,7 +33,7 @@ tags = ['soups','entrees']
 - 2 tsp honey
 - Lemon wedges, yogurt, dates, or crusty bread for serving (optional)
 
-## Instructions
+!!INS!!
 
 1. Heat a large, heavy-bottomed pot (such as a dutch oven) over medium heat. Add olive oil. When the oil shimmers, add the lamb cubes and saute hard until they are browned.
 2. When the lamb cubes are browned, add the onion. Saute for another roughly 3 minutes until it is softened and translucent.

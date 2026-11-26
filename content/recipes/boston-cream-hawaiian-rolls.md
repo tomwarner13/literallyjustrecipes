@@ -13,7 +13,7 @@ tags = ['desserts']
 - 1/2 cup heavy whipping cream
 - 1/2 cup chocolate frosting
 
-## Instructions
+!!INS!!
 
 1. In a medium mixing bowl, combine vanilla pudding mix with cold milk, stirring to whisk out any lumps, then set aside to thicken for 5 minutes.
 2. Whip heavy whipping cream to form stiff peaks, then fold the whipped cream into the thickened vanilla pudding.

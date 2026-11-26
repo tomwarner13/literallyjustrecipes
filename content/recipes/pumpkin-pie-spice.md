@@ -14,7 +14,7 @@ tags = ['components','spices']
 - 1 tsp ground allspice
 - pinch ground black pepper (small pinch, <1/8 teaspoon)
 
-## Instructions
+!!INS!!
 
 1. Combine all ingredients in a bowl and mix thoroughly. If using fresh-ground spices (recommended) sift out any large chunks through a fine mesh strainer. Store in an airtight jar.
 

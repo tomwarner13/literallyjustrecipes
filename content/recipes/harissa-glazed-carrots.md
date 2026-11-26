@@ -19,7 +19,7 @@ tags = ['sides']
 - 1 tsp table salt
 - chopped parsley leaves, for garnish
 
-## Instructions
+!!INS!!
 
 1. Make the labneh: line a colander with cheesecloth or several layers of paper towels, and set it over a bowl to drain. Mix the salt into the yogurt and add the yogurt to the colander. Allow to drain on counter or in refrigerator for at least 3 hours or up to overnight.
 2. Make the glaze: mix the harissa, olive oil, honey, coriander, cumin, aleppo, and smoked paprika in a bowl.

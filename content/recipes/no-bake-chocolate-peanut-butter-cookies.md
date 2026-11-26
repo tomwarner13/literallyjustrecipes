@@ -15,7 +15,7 @@ tags = ['desserts']
 - 1 teaspoon vanilla extract
 - 3 cups instant oats
 
-## Instructions
+!!INS!!
 
 1. Combine butter, sugar, milk, and cocoa powder in a large saucepan. Heat over medium heat, stirring regularly.
 2. While the mixture heats, line 2 baking sheets with parchment paper; set aside.

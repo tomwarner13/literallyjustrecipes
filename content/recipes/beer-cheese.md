@@ -18,7 +18,7 @@ tags = ['apps']
 - salt, to taste
 - 10 oz (2 1/2 cups) sharp cheddar cheese, shredded
 
-## Instructions
+!!INS!!
 
 1. Make a roux by melting the butter in a medium saucepan over medium heat, then whisking in the flour until it forms a golden-brown, lumpy paste.
 2. Whisk in the milk, pouring in a slow and steady stream. Continue whisking until everything is smooth and thick.

@@ -23,7 +23,7 @@ tags = ['sides','apps']
 - 1 oz shredded Parmesan cheese
 - Pita chips, for serving
 
-## Instructions
+!!INS!!
 
 1. Preheat oven to 375. Roughly chop the spinach or kale and remove any large stems. Brush olive oil on a baking sheet and scatter the leafy greens and hot pepper evenly across it.
 2. Cook in the oven for 3-5 minutes (2-3 if using convection) until the greens are crispy and the pepper is softened. Remove from oven and heat to 400.

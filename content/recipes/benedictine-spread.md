@@ -15,7 +15,7 @@ tags = ['dips','apps']
 - pinch kosher salt
 - 1 tsp finely minced fresh dill
 
-## Instructions
+!!INS!!
 
 1. Peel and halve the cucumber. Use a spoon to scoop out the seeds (it's ok if you miss a few). Peel the onion.
 2. Grate the cucumber and onion into a fine mesh strainer over a bowl. Press down to force out excess juice. Sprinkle with salt and let sit for at least 1 hour. Discard the drained juices.

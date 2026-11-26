@@ -17,7 +17,7 @@ tags = ['desserts']
 - 1/4 cup orange juice
 - 5 tbsp cornstarch (heaping quarter cup)
 
-## Instructions
+!!INS!!
 
 1. Make the crust. When ready to roll it out, divide it into 2 parts with a knife. Flatten each into a puck, wrap each individually in plastic wrap, and refrigerate as directed.
 2. Make the filling. In a large bowl, stir together plums, blackberries, sugar, vanilla, and OJ. Let mingle at room temperature for at least 30 minutes, then pour off all excess liquid.

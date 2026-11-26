@@ -41,7 +41,7 @@ tags = ['entrees']
 - Chopped fresh mint leaves, roughly 1/4 cup
 - Chopped fresh parsley leavs, roughly 1/4 cup
 
-## Instructions
+!!INS!!
 
 1. Place a rack towards top of oven; preheat to 425.
 2. Halve bell peppers lengthwise, then remove seeds and ribs. Leave stems on; they will pull off easily after cooking. Spray a 13x9 baking dish lightly with cooking spray and lay out peppers flat, cut side up. Drizzle with 1 teaspoon oil; season with a pinch of salt and black pepper. Turn peppers cut side down.

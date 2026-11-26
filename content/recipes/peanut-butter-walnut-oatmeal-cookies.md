@@ -20,7 +20,7 @@ tags = ['desserts']
 - 2 cups rolled oats (ideally, extra thiccc)
 - kosher or flaky sea salt
 
-## Instructions
+!!INS!!
 
 1. Add walnuts to food processor and processor until very fine - almost buttery.
 2. Add butter and both sugars to the bowl of a stand mixer with flat or paddle beater. Beat at low speed until combined, then increase speed and beat until fluffy (2-3 minutes).

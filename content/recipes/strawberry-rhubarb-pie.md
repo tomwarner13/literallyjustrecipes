@@ -23,7 +23,7 @@ tags = ['desserts']
 - 1/2 teaspoon cinnamon
 - Vanilla ice cream, for serving
 
-## Instructions
+!!INS!!
 
 1. Begin by preparing your pie crust. Roll out the dough onto a lightly floured surface. Carefully transfer it to a 9-inch pie pan. Pinch around the rim of the dough to form an edge. Place it in the refrigerator to chill.
 2. Preheat oven to 400F.

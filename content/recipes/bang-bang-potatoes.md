@@ -24,7 +24,7 @@ tags = ['sides']
 - chili sauce, tomato jam, or, if desperate, ketchup to taste
 - Thai chili oil, to taste
 
-## Instructions
+!!INS!!
 
 1. About an hour before you're ready to cook: rinse and/ or scrub the potatoes and let them drain, then spread out so they dry completely.
 2. When ready to cook, halve or quarter the potatoes to get to bite sized pieces. Preheat oven to 450 and have a large sheet tray ready.

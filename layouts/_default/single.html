@@ -44,12 +44,17 @@
   {{ end }}
 
   <div class="post-content">
-    {{- with .Content -}}
-      <div>
-        {{ . | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor">&#8983;</a> ${3}` | safeHTML }}
+    <div class="split-content">
+      {{ $safeContent := .Content | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor">&#8983;</a> ${3}` }}
+      {{ $sections := split $safeContent "!!INS!!" }}
+      <div class="ingredients-column">
+        {{ index $sections 0 | safeHTML }}
       </div>
-    {{- end -}}
-  </div>
+      <div class="instructions-column">
+        <h2 id="instructions">Instructions<a href="#instructions" class="hanchor" arialabel="Anchor">⌗</a> </h2>
+        {{ index $sections 1 | safeHTML }}
+      </div>
+    </div>
 
   {{ if eq .Type $.Site.Params.contentTypeName }}
     {{ partial "posts_pagination.html" . }}

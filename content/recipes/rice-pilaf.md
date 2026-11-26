@@ -18,7 +18,7 @@ tags = ['sides']
 - 1 tsp salt
 - 1/2 cup fresh parsley, chopped, for garnish
 
-## Instructions
+!!INS!!
 
 1. In a large skillet or pan, heat 1 tbsp olive oil on medium. Add shallot and saute for 90 seconds until fragrant.
 2. Add orzo and minced garlic. Saute for 3 minutes, stirring often.

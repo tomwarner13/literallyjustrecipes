@@ -20,7 +20,7 @@ tags = ['desserts']
 - about 1 tsp red food coloring (optional) [^1]
 - Cream cheese icing
 
-## Instructions
+!!INS!!
 
 1. Preheat oven to 350. Cut a piece of parchment to line a 12x12 or 10x15 ("jelly roll pan") and spray a little Pam into the pan, to hold the paper.
 2. Mix the flour, sugar, baking soda, and salt in a large bowl; set aside.

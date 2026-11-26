@@ -19,7 +19,7 @@ tags = ['desserts']
 - 1/4 tsp ground cloves
 - 1/8 tsp finely ground black pepper
 
-## Instructions
+!!INS!!
 
 1. Preheat oven to 450.
 2. In a mixing bowl, add sugar, salt, and spices. Add eggs and stir well.

@@ -14,7 +14,7 @@ tags = ['components']
 - 6 tbsp cold unsalted butter
 - Ice water (you'll probably need half a cup at most)
 
-## Instructions
+!!INS!!
 
 1. With a cold knife on a cold cutting board (as much as feasible), chop the butter into rough squares; maybe half a tbsp each. Keep cold if necessary; you want it to form big lumps in the dough and the colder it is, the more it'll stay together. If it's especially warm in your kitchen, or (for example) your hands are constanly radiating intense heat, you may even want to consider pre-chilling other ingredients or equipment, like flour or the food processor bowl.
 2. In a food processor, add the flour, salt, and sugar (if using). Pulse a few times to mix.

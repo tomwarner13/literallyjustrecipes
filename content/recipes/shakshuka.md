@@ -33,7 +33,7 @@ tags = ['breakfasts','entrees']
 - chopped parsley, for serving
 - 4 warm pita bread rounds 
 
-## Instructions
+!!INS!!
 
 1. In a large skillet, heat the oil. Add the onion and chopped peppers and cook until pepper is soft and onion is translucent.
 2. Add garlic and seasonings; cook until garlic is fragrant, about 30 seconds.

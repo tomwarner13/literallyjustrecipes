@@ -24,7 +24,7 @@ tags = ['breakfasts','entrees']
 - flaky sea salt, to taste
 - Chopped parsley for garnish
 
-## Instructions
+!!INS!!
 
 1. Cube the focaccia and allow the cubes to dry out, overnight or over up to several days.
 2. In a large bowl, beat together the eggs, spinach, basil, garlic, herbs, red pepper, black pepper, and Romano cheese. Pour over the dried focaccia cubes and allow to soak for at least 30 minutes or up to overnight.

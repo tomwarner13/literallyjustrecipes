@@ -27,7 +27,7 @@ tags = ['sides', 'salads']
 - black pepper, to taste
 - 1 large avocado
 
-## Instructions
+!!INS!!
 
 1. In a large bowl, combine beans, corn, peppers, onion, and cilantro. You may want to consider combining them in a colander first and letting it drain into your sink for a couple minutes.
 2. In a small bowl, whisk together oil, vinegar, lime and lemon juices, sugar, salt, garlic, cumin, chili powder, a splash of hot sauce (optional), and black pepper.

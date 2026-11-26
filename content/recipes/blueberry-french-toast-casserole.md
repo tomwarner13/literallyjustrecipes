@@ -29,7 +29,7 @@ tags = ['breakfasts','entrees']
 - 6 tbsp unsalted butter, cold and cubed
 - Powdered sugar for sprinkling, optional
 
-## Instructions
+!!INS!!
 
 1. As much as a day before cooking, get the bread drying out; especially if it is fresh. Cut the bread into rough 1-inch cubes and leave out of the way somewhere dry.
 2. Ideally the night before cooking, or at least several hours in advance, spray a 9x13 (roughly) baking pan with cooking spray. Spread half the cubed bread into the bottom of the pan.

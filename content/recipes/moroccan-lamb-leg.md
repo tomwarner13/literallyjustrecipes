@@ -26,7 +26,7 @@ tags = ['entrees']
 - 1/2 cup creme fraiche
 - 1 tbsp lime juice
 
-## Instructions
+!!INS!!
 
 1. If possible, bring the lamb to room temperature (covered) or at least let it warm and thaw for a bit.
 2. Heat olive oil in a large skillet until smoking.

@@ -27,7 +27,7 @@ tags = ['entrees']
 - 1 cup carrots, chopped into 1/2-inch rounds
 - 1 cup shredded cheddar cheese (optional)
 
-## Instructions
+!!INS!!
 
 1. Add all ingredients except broccoli, carrots, and cheese to slow cooker and stir together.
 2. Cook on high 2.5 hours.

@@ -31,7 +31,7 @@ tags = ['sides']
 - Flaky sea salt
 - Fresh cracked pepper
 
-## Instructions
+!!INS!!
 
 1. Add the flour, salt, and herbs to a food processor. Chop the butter into rough cubes and add in. Pulse until mixture resenbles coarse sand.
 2. In a large bowl, whisk together yogurt, lemon juice, and water. Add flour mixture and mix with a large spoon or hands until the dough forms a ball. Wrap the ball in plastic wrap and chill in freezer for 20 minutes.

@@ -9,7 +9,7 @@ tags = ['sides','apps']
 ## Ingredients
 - 1 tbsp something
 
-## Instructions
+!!INS!!
 
 1. Cook.
 

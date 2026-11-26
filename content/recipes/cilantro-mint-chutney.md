@@ -20,7 +20,7 @@ tags = ['sauces']
 - Kewpie mayo, to taste
 - Salt and pepper, to taste
 
-## Instructions
+!!INS!!
 
 1. Add all ingredients to a food processor. Blend until smooth and consistent. Serve chilled.
 

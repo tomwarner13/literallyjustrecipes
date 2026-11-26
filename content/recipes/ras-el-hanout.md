@@ -23,7 +23,7 @@ tags = ['components','spices']
 - 1/4 tbsp ground cloves
 - 1/4 tbsp ground white pepper
 
-## Instructions
+!!INS!!
 
 1. Stir all ingredients together well. Store in an airtight jar.
 

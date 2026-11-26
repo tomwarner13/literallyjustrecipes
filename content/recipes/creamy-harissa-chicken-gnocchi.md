@@ -24,7 +24,7 @@ tags = ['entrees']
 - 3 cups packed baby spinach
 - 1/4 cup finely chopped fresh basil leaves
 
-## Instructions
+!!INS!!
 
 1. Flatten out chicken thighs and season heavily with Ras el Hanout, salt, and pepper. Add 1 tbsp EVOO to a large (at least-12-inch) skillet and heat on medium-high until shimmering. Add chicken thighs and sear hard, turning once, until both sides are browned, about 2 minutes per side. Remove chicken and set aside.
 2. Add remaining tablespoon of EVOO to the hot skillet and add the mushrooms and chopped shallot. Saute, stirring occasionally, until mushrooms are starting to brown all around, about 6 minutes.

@@ -23,7 +23,7 @@ tags = ['entrees']
 - 2 medium scallions, thinly sliced
 - Rice, for serving
 
-## Instructions
+!!INS!!
 
 1. In a 6(-ish) quart instant pot, combine leeks, bok choy, 1 tbsp butter, salt, and water. Set a small wire rack on top of the leeks and lightly coat with cooking spray. Arrange the fish, skin down, on the rack. Brush the fish with 1 tsp ginger and soy sauce.
 2. Lock the lid and close the vent. Set to "steam" and cook for 4 minutes. When time is up, turn off the pot, vent the steam, and remove the lid.

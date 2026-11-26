@@ -19,7 +19,7 @@ tags = ['desserts']
 - 1/2 cup Greek yogurt
 - 1/4 cup peanut butter
 
-## Instructions
+!!INS!!
 
 1. Preheat oven to 350 F.
 2. In a large bowl, whisk together flour and baking soda.

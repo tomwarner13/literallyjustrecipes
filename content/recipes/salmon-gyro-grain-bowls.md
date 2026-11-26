@@ -32,7 +32,7 @@ tags = ['entrees']
 - Cooked rice, brown or white, and/or quinoa, millet, or farro, for serving
 - Chopped fresh spinach and more chopped parsley, for serving
 
-## Instructions
+!!INS!!
 
 1. Cook the rice, quinoa, millet, or farro up to 2-3 days ahead, but before the rest of the recipe.
 

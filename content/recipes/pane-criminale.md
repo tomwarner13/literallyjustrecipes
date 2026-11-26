@@ -16,7 +16,7 @@ tags = ['sides','breads']
 - Finely ground black pepper, to taste
 - 1 lb loaf rustic country bread
 
-## Instructions
+!!INS!!
 
 1. Set an oven rack in the center and preheat to 400.
 2. Heat a small saucepan over medium-low heat and add the oil. Mince 8 of the garlic cloves and add them when the pan is hot. Cook, very gently, until the garlic is fragrant, about 7 minutes. Do not allow the garlic to brown at all -- if the pan gets too hot, remove it from the heat and stir in a few drops of cold water. Pour into a small heatproof bowl when done and set aside.

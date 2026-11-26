@@ -25,7 +25,7 @@ tags = ['desserts']
 - 1/4 cup granulated sugar or large-grain sugar (such as demarara)
 - 3 tbsp sesame seeds
 
-## Instructions
+!!INS!!
 
 1. Preheat oven to 350. Line 2 baking sheets with parchment paper and set aside. Mix together the sugar and sesame seeds for coating in a plate or shallow bowl, set aside.
 2. In a medium bowl, whisk together flour, baking powder, and baking soda.

@@ -12,7 +12,7 @@ tags = ['apps']
 - 1 8 oz package premade crescent rolls, such as Pillsbury
 - 1/4 cup sliced green onions
 
-## Instructions
+!!INS!!
 
 1. Preheat oven to 375, or the temperature indicated in the crescent roll instructions.
 2. Arrange the crescent rolls into their separate triangles, then slice each one into three smaller triangles. Lay out on a cookie sheet.

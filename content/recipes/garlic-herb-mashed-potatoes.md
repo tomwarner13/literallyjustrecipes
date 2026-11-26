@@ -25,7 +25,7 @@ tags = ['sides']
 - Salt
 - Black pepper, to taste
 
-## Instructions
+!!INS!!
 
 ### Make the Confit
 

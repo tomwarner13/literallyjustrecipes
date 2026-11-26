@@ -15,7 +15,7 @@ tags = ['sides']
 - 1 cup cherry tomatoes
 - 4 oz cheddar cheese, optional
 
-## Instructions
+!!INS!!
 
 1. Cook the pasta according to package directions. Drain it, rinse it, and leave it to cool.
 2. Remove seeds and stems from the peppers, and dice them well. Halve or quarter the cherry tomatoes. Drain the canned olives.

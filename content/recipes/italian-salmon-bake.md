@@ -25,7 +25,7 @@ tags = ['entrees']
 - 1/2 cup roughly chopped fresh basil
 - 1/4 cup minced chives
 
-## Instructions
+!!INS!!
 
 1. Preheat oven to 375.
 2. Coat the bottom of a 9x13 baking pan with EVOO. Pat the salmon fillets dry with paper towels and add them to the pan, skin side down, spreading them out to make space for tomatoes.
