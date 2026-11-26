@@ -55,6 +55,7 @@
         {{ index $sections 1 | safeHTML }}
       </div>
     </div>
+  </div>
 
   {{ if eq .Type $.Site.Params.contentTypeName }}
     {{ partial "posts_pagination.html" . }}
