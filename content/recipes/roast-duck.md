@@ -16,7 +16,7 @@ tags = ['entrees']
 
 ### Glaze
 - 1/2 cup balsamic vinegar
-- juice of 1 lemon
+- Juice of 1 lemon
 - 1/4 cup honey
 
 !!INS!!
