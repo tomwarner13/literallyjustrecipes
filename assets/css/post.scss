@@ -160,12 +160,7 @@ h1:hover a, h2:hover a, h3:hover a, h4:hover a {
 
 @media(min-width: $tablet) {
   .split-content {
-    width: 90vw;
-    position: relative;
-    left: 50%;
-    right: 50%;
-    margin-left: -45vw;
-    margin-right: -45vw;
+    width: 100%;
     display: grid;
     grid-template-columns: 1fr 2fr;
     gap: 10px;
