@@ -43,19 +43,25 @@
     </div>
   {{ end }}
 
-  <div class="post-content">
-    <div class="split-content">
-      {{ $safeContent := .Content | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor">&#8983;</a> ${3}` }}
-      {{ $sections := split $safeContent "!!INS!!" }}
-      <div class="ingredients-column">
-        {{ index $sections 0 | safeHTML }}
-      </div>
-      <div class="instructions-column">
-        <h2 id="instructions">Instructions<a href="#instructions" class="hanchor" arialabel="Anchor">⌗</a> </h2>
-        {{ index $sections 1 | safeHTML }}
+  {{ $safeContent := .Content | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor">&#8983;</a> ${3}` }}
+  {{ $sections := split $safeContent "!!INS!!" }}
+  {{ if eq (len $sections) 1 }}
+    <div class="post-content">
+      {{ index $sections 0 | safeHTML }}
+    </div>
+  {{ else }}
+    <div class="post-content">
+      <div class="split-content">
+        <div class="ingredients-column">
+          {{ index $sections 0 | safeHTML }}
+        </div>
+        <div class="instructions-column">
+          <h2 id="instructions">Instructions<a href="#instructions" class="hanchor" arialabel="Anchor">⌗</a> </h2>
+          {{ index $sections 1 | safeHTML }}
+        </div>
       </div>
     </div>
-  </div>
+  {{ end }}
 
   {{ if eq .Type $.Site.Params.contentTypeName }}
     {{ partial "posts_pagination.html" . }}
